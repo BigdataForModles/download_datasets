@@ -14,5 +14,7 @@ AIGC相关
 
 视频数据集：HD-VILA数据集、 YT-Temporal数据集、DataComp数据集
 
+huggingface平台相关数据或者模型
+
 ## 联系
 如你有需要这些数据或者其它数据可以联系  1686873081@qq.com 
